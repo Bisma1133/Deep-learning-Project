@@ -1,0 +1,4 @@
+tqdm==4.62.0
+torch
+opencv-python
+albumentations==0.1.12
